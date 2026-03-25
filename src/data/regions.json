@@ -1,0 +1,51 @@
+[  
+  {    
+    "region": "Batken",    
+    "temperature": "16 - 22 °C",    
+    "precipitation": "450 - 700 mm",    
+    "soil_types": ["chestnut", "mountain", "ferrous"],    
+    "crops": ["cotton", "tobacco", "peaches"]  
+  },  
+  {    
+    "region": "Chuy",    
+    "temperature": "12 - 20 °C",    
+    "precipitation": "450 - 800 mm",    
+    "soil_types": ["black earth", "heavy clay"],    
+    "crops": ["potatoes", "grain", "vegetables"]  
+  },  
+  {    
+    "region": "Jalal-Abad",    
+    "temperature": "14 - 24 °C",    
+    "precipitation": "600 - 900 mm",    
+    "soil_types": ["gray soil", "alluvial clay"],    
+    "crops": ["apple", "grapes", "cotton"]  
+  },  
+  {    
+    "region": "Naryn",    
+    "temperature": "5 - 15 °C",    
+    "precipitation": "300 - 600 mm",    
+    "soil_types": ["mountain tundra", "sandy"],    
+    "crops": ["barley", "oats", "herbs"]  
+  },  
+  {    
+    "region": "Osh",    
+    "temperature": "16 - 26 °C",    
+    "precipitation": "400 - 700 mm",    
+    "soil_types": ["black earth", "red soil"],    
+    "crops": ["pomegranates", "corn", "watermelon"]  
+  },  
+  {    
+    "region": "Issyk-Kul",    
+    "temperature": "10 - 20 °C",    
+    "precipitation": "500 - 800 mm",    
+    "soil_types": ["sandy", "gravelly"],    
+    "crops": ["fishing", "tourism", "fruit"]  
+  },  
+  {    
+    "region": "Talas",    
+    "temperature": "13 - 23 °C",    
+    "precipitation": "350 - 650 mm",    
+    "soil_types": ["chestnut", "black earth"],    
+    "crops": ["grapes", "melon", "sunflower"]  
+  }  
+]
